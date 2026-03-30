@@ -59,4 +59,4 @@ To secure an internship in IT, software development, or cloud computing and cont
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/your-username
+www.linkedin.com/in/huma-safdar-a920872a3
