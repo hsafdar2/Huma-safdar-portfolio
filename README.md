@@ -1,36 +1,50 @@
-# Huma Safdar – Python Projects Portfolio
+# Huma Safdar – Portfolio
 
-IT student at George Mason University with experience in Python, HTML, Java, and mobile app development.
+IT student at George Mason University with experience in Python, HTML, Java, mobile app development, Microsoft Project, AWS, and Wireshark.
 
-## Projects
+## 💻 Skills
+- Python
+- HTML & CSS
+- Java
+- Mobile App Development
+- Microsoft Project (Project Planning & Scheduling)
+- AWS (Cloud Fundamentals)
+- Wireshark (Network Traffic Analysis)
+- Problem Solving
 
-### 1. Sphere Surface Area Calculator
-Calculates the surface area of a sphere based on user input radius.
+## 📂 Projects
 
-### 2. Loop Counter
-Demonstrates loop execution and stopping conditions using a counter.
+### Python Projects
+- Sphere Surface Area Calculator  
+- Loop Counter  
+- Temperature Analyzer  
+- Seven Wonders Lookup  
+- Triangle Area Calculator  
+- Salad Order System  
+- User Password Manager  
 
-### 3. Temperature Analyzer
-Collects temperature data, calculates average, and determines health condition.
+### MS Project Work
+- Created project schedules using Microsoft Project  
+- Defined task dependencies and durations  
+- Applied project planning and scheduling concepts  
 
-### 4. Seven Wonders Lookup
-Search-based program to find world wonders by name or location.
+### Web Development
+- HTML/CSS website projects  
 
-### 5. Triangle Area Calculator
-Calculates triangle area using Heron’s formula for multiple inputs.
+### Java Programming
+- Object-oriented programming assignments  
 
-### 6. Salad Order System
-Menu-driven ordering system with pricing, tax calculation, and checkout.
+### Mobile App
+- Beginner mobile app project focusing on UI and functionality  
 
-### 7. User Password Manager
-Manages users with password validation rules and update functionality.
+### Cloud (AWS)
+- Basic understanding of cloud computing concepts  
+- Familiar with AWS services and cloud environments  
 
-## Skills Demonstrated
-- Python Programming
-- Loops and Conditions
-- Functions
-- Data Structures (Lists)
-- User Input Handling
+### Networking (Wireshark)
+- Analyzed network traffic using Wireshark  
+- Observed packet transmission and protocols  
+- Gained understanding of TCP/IP communication  
 
-## Author
-Huma Safdar
+## 🎯 Goal
+Building practical projects and improving my skills to gain real-world experience and internships in IT, networking, cloud computing, and software development.
