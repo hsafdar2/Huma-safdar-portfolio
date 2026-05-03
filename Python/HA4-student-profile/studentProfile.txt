@@ -1,0 +1,3 @@
+G001|Dave Matthews|dmath@gmu.edu|IT
+G002|Omar Bradley|obrad@gmu.edu|Bio
+G005|Sly Stone|ss@gmu.edu|Chem
