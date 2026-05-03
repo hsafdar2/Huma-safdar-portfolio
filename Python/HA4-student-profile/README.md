@@ -1,4 +1,4 @@
-# Student Profile Application (HA4)
+# Student Profile Application
 
 This is a simple Python program for managing student profiles.  
 It was created for Homework Assignment 4.
