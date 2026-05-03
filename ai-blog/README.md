@@ -1,6 +1,6 @@
 # 🧠 AI Research Blog
 
-🔗 https://sites.google.com/view/huma-ai-research/home
+🔗 https://huma-ai-cybersecurity-blog.blogspot.com/p/can-artificial-intelligence-really-keep.html
 
 ## 📌 Description
 This project is an AI-focused research blog created to explore concepts, trends, and real-world applications of artificial intelligence.
